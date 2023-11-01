@@ -1,1 +1,8 @@
-M
+Monētas un kauliņu mešana.
+1.Random funkcijas
+2. Cilvēks ieejot saite pirmo ko viņš pamanīs būs izvēle, monēta vai kauliņa mešana.
+3. Izvēlies skaitli kauliņā vai monētas pusi.
+4. Kauliņš palecās griežoties un kad viņš piezemēsies tas parādīs random skaitli, tas pats arī ar monētu.
+5. Tu izvēlējies skaitli uz kauliņa, ja tu neuzminēji skaitli parādās ar sarkaniem burtiem "Tu zaudēji", bet ja uzminēji tad parādās ar zaļiem burtiem "Tu uzvarēji", tas pats ar monētu.
+6. Es redzu šo lietotni kā saiti kurā var pārbaudīt savu veiksmi.
+
