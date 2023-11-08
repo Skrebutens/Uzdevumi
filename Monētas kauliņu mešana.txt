@@ -6,5 +6,4 @@ Monētas un kauliņu mešana.
 5. Tu izvēlējies skaitli uz kauliņa, ja tu neuzminēji skaitli parādās ar sarkaniem burtiem "Tu zaudēji", bet ja uzminēji tad parādās ar zaļiem burtiem "Tu uzvarēji", tas pats ar monētu.
 6. Es redzu šo lietotni kā saiti kurā var pārbaudīt savu veiksmi.
 
-na
-https://ai2.appinventor.mit.edu/?locale=ru#5822883282419712
+
